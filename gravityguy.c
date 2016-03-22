@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
+#include<math.h>
 int main(){
 	long t,l;
 	char str1[200000],str2[200000],*ptr;
